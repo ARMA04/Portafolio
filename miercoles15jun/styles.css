@@ -1,0 +1,30 @@
+body{
+    background-color: #054a78;
+}
+
+
+.tilt{
+    background-color: black;
+    color: aliceblue;
+    max-width: 2000px;
+    min-width: 500px;
+  height: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: end;
+}
+
+
+.soy{
+    border-bottom-style: solid;
+    max-width: 100px;
+}
+
+.Andres{
+    position: relative;
+    left: 50px;
+    height: 1px;
+}
+
+
